@@ -1,0 +1,19 @@
+Iain McLean
+GUID: 2308499m
+Date: 01/12/2020
+200 words max
+Some questions to consider:
+
+Does your code build properly with "stack build"?
+
+The code succesfully builds with "stack build" on my machine.
+
+Are there any parts of the specification you did not implement in part
+A?
+
+I implemented all of part A, it succesfully prints the numbers in command line after using "Stack Run"
+
+For the 'stretch' part B, which libraries did you use and what kind of
+output did you generate?
+
+I used haskell chart to create a pie chart. I used the libraries "Graphics.Rendering.Chart.Backend.Cairo" and "Graphics.Rendering.Chart.Easy".

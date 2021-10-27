@@ -1,0 +1,50 @@
+Iain McLean
+GUID: 2308499m
+Date: 01/12/2020
+
+After the lecture on scraping, where it was recommended that we should 
+practice for ourselves, I found the site http://toscrape.com/ and 
+attempted to do some basic scraping activities such as counting the 
+number of books on page. This helped a lot when it came to the assessed 
+exercise as it was quite a similar task. The main issue I had with this 
+exercise was trying to debug any issues as it's not as simple as 
+placing “show x” in relevant places in the code. Once the trace 
+function was highlighted in the lecture, it became easier to debug code 
+but still not as simple as placing “print” statements anywhere you 
+please such as in Python. 
+
+I know that languages such as Python and Java have the capabilities to 
+be written in a functional manner, however as it was rarely taught in 
+previous years, Haskell felt completely alien at first. In my opinion, 
+Haskell is most similar to Python in the way that it can be written 
+incredibly elegantly and succinctly, yet its flexibility and debugging 
+capabilities seems more alike C and C++ (in the way that it can be 
+quite frustrating!). The most obvious difference between Haskell and 
+other mainstream languages is the importance of Monads. Monads are 
+something that took a long time to get my head wrapped round but 
+funnily enough I best understood them through the 
+https://chrisdone.com/posts/monads-are-burritos/ blog post. Also 
+completely changing my view of types to be a function that takes a 
+specific input and creates a specific output.
+
+Features that I like about Haskell is the easy and succinct way to 
+write pattern matching cases as you can easily make recursive functions 
+and cover edge cases simplistically. Another feature that has been 
+incredibly useful is guards. Once I learned how to use them my Haskell 
+coding ability increased significantly. One of the features I dislike 
+(or possibly don't understand well enough!) about Haskell is partial 
+application, even though it goes against the core of Haskell. In my 
+opinion it just makes code a lot less readable and the exclusion of 
+unnecessary variables to create a new function just makes the 
+learning curve even steeper, when trying to learn from other examples. 
+Obviously it would be easier to learn if there was as much 
+documentation and stack overflow posts as Python but even from the 
+limited amount of documentation it can be incredibly hard to 
+interpret. However I do understand the powerful and succinct 
+computations that can be achieved through its use.
+
+Overall Haskell is a very powerful language and introduced functional 
+programming techniques very well however with it being a lot less 
+verbose than other languages, and its type definitions being so tight 
+it has been difficult to understand the full scope of functions and 
+how to apply them within a specific context.
